@@ -1,0 +1,77 @@
+{
+    "frases": [
+      {
+        "id": "1",
+        "Title": "Pensamiento",
+        "Description": "Mas vale la pena en el rostro que la mancha en el corazón",
+        "Autor": "Miguel de Cervantes"
+      },
+      {
+        "id": "2",
+        "Title": "Pensamiento positivo",
+        "Description": "El aprendizaje es un regalo. Incluso cuando el dolor es tu maestro",
+        "Autor": "Maya Watson"
+      },
+      {
+        "id": "3",
+        "Title": "Pensamiento positivo",
+        "Description": "La situacion no es mala, tus pensamiento respecto a la situacion son negativos",
+        "Autor": "ray Bradbury"
+      },
+      {
+        "id": "4",
+        "Title": "Pensamiento ",
+        "Description": "Nunca consideres el estudio como una obligacion, sino como una oprtunidad para penetrar en el bello y maravilloso mundo del saber",
+        "Autor": "Albert Einstein"
+      },
+      {
+        "id": "5",
+        "Title": "Pensamiento positivo",
+        "Description": "El mayor error del ser humano es intentar sacarse de la cabeza aquello que no sale del corazon",
+        "Autor": "Mario Benedetti"
+      },
+      {
+        "id": "6",
+        "Title": "Pensamiento positivo",
+        "Description": "Si piensas que la aventura es peligrosa, prueba la rutina. Es mortal",
+        "Autor": "Pablo Coelho"
+      },
+      {
+        "id": "7",
+        "Title": "Pensamiento positivo",
+        "Description": "Si buscas resultados distintos no hagas siempre lo mismo",
+        "Autor": "Albert Einstein"
+      },
+      {
+        "id": "8",
+        "Title": "Pensamiento",
+        "Description": "A veces sentimos que lo que hacemos es tan solo una gota e el mar, pero el mar seria menos si le faltara una gota",
+        "Autor": "M. Teresa de Calcuta"
+      },
+      {
+        "id": "9",
+        "Title": "Pensamiento",
+        "Description": "La vida no es la que uno vivió si no la que uno recuerda, y como la recuerda para contarla",
+        "Autor": "Gabriel Garcia Marquez"
+      },
+      {
+        "id": "10",
+        "Title": "Pensamiento positivo",
+        "Description": "Es hora de empezar a vivir la vida que has imaginado",
+        "Autor": "Henry James"
+      },
+      {
+        "id": "11",
+        "Title": "Pensamiento positivo",
+        "Description": "El pesimista ve dificultades en toda oprtunidad. El optimista ve oportunidad en toda dificultad",
+        "Autor": "Winston Churchill"
+      },
+      {
+        "id": "12",
+        "Title": "Pensamiento positivo",
+        "Description": "La unica diferencia entre un buen y mal día es tu ACTITUD",
+        "Autor": "Dennis S. Brown"
+      }
+    ]
+    }
+    
